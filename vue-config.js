@@ -9,7 +9,7 @@ module.exports = {
                 'network':'@/network',
                 // 'router':'@/router',
                 // 'store':'@/store',
-                'view':'@/view',
+                'view':'@/view'
             }
         }
     }
