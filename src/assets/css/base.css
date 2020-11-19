@@ -6,7 +6,7 @@
     /*使用变量的方法：color:var(--color-text)*/
 
     --high-ligth:#ff5777;
-    --high-tint:#ff8198;/*整体背景颜色，导航等位置的*/
+    --color-tint:#ff8198;/*整体背景颜色，导航等位置的*/
     --color-background:#fff;
     --font-size:14px;
     --line-height:1.5
